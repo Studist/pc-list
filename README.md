@@ -1,6 +1,6 @@
 # はじめに
 
-スタディスト社員に貸与するPCのリストです。ご入社される方は以下のリストから *Model Number* と *Keyboard Type* を選んで人事担当者にご連絡ください。（例：「③ JIS でお願いします」）
+スタディスト社員に貸与するPCのリストです。ご入社される方は以下のリストから `Model Number` と `Keyboard Type` を選んで人事担当者にご連絡ください。（例：「③ JIS でお願いします」）
 
 
 # 注意点
@@ -16,8 +16,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ① | Windows | [Lenovo T490](https://www.lenovo.com/ee/et/laptops/thinkpad/t-series/T490/p/22TP2TT4900) | Intel Core i7 | 4 Cores | 8 Threads | 16GB | 500GB | 14 Inchs | WQHD (2560 x 1440) | US or JIS |
 | ② | Windows | [Dell XPS15](https://www.dell.com/en-us/shop/presidents-day-deals/new-xps-15-laptop/spd/xps-15-7590-laptop) | Intel Core i9 | 8 Cores | 16 Threads | 32GB | 1TB | 15 Inchs | 4K (3840 x 2160) | US or JIS |
-| ④ | Mac | [MacBook Pro 13](https://www.apple.com/jp/macbook-pro-13/) Inch | Intel Core i7 | 4 Cores | 8 Threads | 16GB | 500GB | 13 Inchs | WQXGA (2560 x 1600) | US or JIS |
-| ⑤ | Mac | [MacBook Pro 16](https://www.apple.com/jp/macbook-pro-16/) Inch | Intel Core i9 | 8 Cores | 16 Threads | 32GB | 1TB | 16 Inchs | 3092 x 1920 | US or JIS |
+| ④ | Mac | [MacBook Pro 13 Inch](https://www.apple.com/jp/macbook-pro-13/) | Intel Core i7 | 4 Cores | 8 Threads | 16GB | 500GB | 13 Inchs | WQXGA (2560 x 1600) | US or JIS |
+| ⑤ | Mac | [MacBook Pro 16 Inch](https://www.apple.com/jp/macbook-pro-16/) | Intel Core i9 | 8 Cores | 16 Threads | 32GB | 1TB | 16 Inchs | 3092 x 1920 | US or JIS |
 
 ## 注意点
 
@@ -42,8 +42,8 @@
 
 | Model Number | OS | Model | CPU | Cores | Threads | RAM | SSD | Display Size | Resolution | Keyboard Type |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ④ | Mac | [MacBook Pro 13](https://www.apple.com/jp/macbook-pro-13/) Inch | Intel Core i7 | 4 Cores | 8 Threads | 16GB | 500GB | 13 Inchs | WQXGA (2560 x 1600) | US or JIS |
-| ⑤ | Mac | [MacBook Pro 16](https://www.apple.com/jp/macbook-pro-16/) Inch | Intel Core i9 | 8 Cores | 16 Threads | 32GB | 1TB | 16 Inchs | 3092 x 1920 | US or JIS |
+| ④ | Mac | [MacBook Pro 13 Inch](https://www.apple.com/jp/macbook-pro-13/) | Intel Core i7 | 4 Cores | 8 Threads | 16GB | 500GB | 13 Inchs | WQXGA (2560 x 1600) | US or JIS |
+| ⑤ | Mac | [MacBook Pro 16 Inch](https://www.apple.com/jp/macbook-pro-16/) | Intel Core i9 | 8 Cores | 16 Threads | 32GB | 1TB | 16 Inchs | 3092 x 1920 | US or JIS |
 
 # 開発部以外
 
@@ -63,4 +63,4 @@
 
 | Model Number | OS | Model | CPU | Cores | Threads | RAM | SSD | Display Size | Resolution | Keyboard Type |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ④ | Mac | [MacBook Pro 13](https://www.apple.com/jp/macbook-pro-13/) Inch | Intel Core i7 | 4 Cores | 8 Threads | 16GB | 500GB | 13 Inchs | WQXGA (2560 x 1600) | US or JIS |
+| ④ | Mac | [MacBook Pro 13 Inch](https://www.apple.com/jp/macbook-pro-13/) | Intel Core i7 | 4 Cores | 8 Threads | 16GB | 500GB | 13 Inchs | WQXGA (2560 x 1600) | US or JIS |
