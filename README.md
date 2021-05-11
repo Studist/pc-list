@@ -79,4 +79,4 @@
 
 | Model Number | OS | Model | CPU | Cores | Threads | RAM | SSD | Display Size | Resolution |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3 | Mac | [MacBook Pro 13 Inch](https://www.apple.com/jp/macbook-pro-13/) | Apple M1 | 8 Cores | - | 16GB | 500GB | 13 Inchs | WQXGA (2560 x 1600) |
+| 3 | Mac | [MacBook Air](https://www.apple.com/jp/macbook-air/) | Apple M1 | 8 Cores | - | 16GB | 500GB | 13 Inchs | WQXGA (2560 x 1600) |
