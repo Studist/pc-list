@@ -14,8 +14,6 @@
 * @マークが `P` の右側にあるのがJIS、数字の `2` と同一なのがUSです
     * 普段お使いのレイアウトを選択してください
 * Macのカラーは「スペースグレイ」のみとなります
-* Macは「Touch Barあり」のみとなります
-
 
 
 # 開発部向けPCリスト
@@ -32,11 +30,12 @@
 
 ## Mac
 
-現状、スタディストの開発においてはARMプロセッサーで開発に必要なDockerイメージの一部が起動できない為、④のIntelプロセッサーのMacのみとなります
+* モバイル開発チームにおいては、M1 Macでの開発ツールの動作確認が完了していないため、①のIntelプロセッサーのMac利用を推奨しています。
 
 | Model Number | OS | Model | CPU | Cores | Threads | RAM | SSD | Display Size | Resolution |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4 | Mac | [MacBook Pro 16 Inch](https://www.apple.com/jp/macbook-pro-16/) | Intel Core i9 | 8 Cores | 16 Threads | 32GB | 1TB | 16 Inchs | 3092 x 1920 |
+| 1 | Mac | [MacBook Pro 16 Inch](https://www.apple.com/jp/macbook-pro-16/) | Intel Core i9 | 8 Cores | 16 Threads | 32GB | 1TB | 16 Inchs | 3092 x 1920 |
+| 2 | Mac | [MacBook Pro 13 Inch](https://www.apple.com/jp/macbook-pro-13/) | Apple M1 | 8 Cores | - | 16GB | 500GB | 13 Inchs | WQXGA (2560 x 1600) |
 
 # 開発部以外向けPCリスト
 
