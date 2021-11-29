@@ -30,8 +30,6 @@
 
 ## Mac
 
-* モバイル開発チームにおいては、M1 Macでの開発ツールの動作確認が完了していないため、①のIntelプロセッサーのMac利用を推奨しています。
-
 | Model Number | OS | Model | CPU | Cores | Threads | RAM | SSD | Display Size | Resolution |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Mac | [MacBook Pro 16 Inch](https://www.apple.com/jp/macbook-pro-16/) | Intel Core i9 | 8 Cores | 16 Threads | 32GB | 1TB | 16 Inchs | 3092 x 1920 |
