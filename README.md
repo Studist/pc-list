@@ -32,7 +32,7 @@
 
 | Model Number | OS | Model | CPU | Cores | Threads | RAM | SSD | Display Size | Resolution |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Mac | [MacBook Pro 16 Inch](https://www.apple.com/jp/macbook-pro-16/) | Apple M1 Pro | 8 Cores | 16 Threads | 32GB | 1TB | 16 Inchs | 3092 x 1920 |
+| 1 | Mac | [MacBook Pro 16 Inch](https://www.apple.com/jp/macbook-pro-16/) | Apple M1 Pro | 10 Cores | 16 Threads | 32GB | 1TB | 16 Inchs | 3092 x 1920 |
 | 2 | Mac | [MacBook Pro 13 Inch](https://www.apple.com/jp/macbook-pro-13/) | Apple M1 | 8 Cores | - | 16GB | 500GB | 13 Inchs | WQXGA (2560 x 1600) |
 
 # 開発部以外向けPCリスト
