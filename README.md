@@ -25,15 +25,15 @@
 
 | Model Number | OS | Model | CPU | Cores | Threads | RAM | SSD | Display Size | Resolution |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Windows | [Lenovo X1 Carbon](https://www.lenovo.com/jp/ja/notebooks/thinkpad/thinkpad-x1/c/thinkpadx1) | Intel Core i7 | 4 Cores | 8 Threads | 16GB | 500GB | 14 Inchs | WQHD (2560 x 1440) |
-| 2 | Windows | [Dell XPS15](https://www.dell.com/en-us/shop/presidents-day-deals/new-xps-15-laptop/spd/xps-15-7590-laptop) | Intel Core i9 | 8 Cores | 16 Threads | 32GB | 1TB | 15 Inchs | 4K (3840 x 2160) |
+| 1 | Windows | [Lenovo X1 Carbon](https://www.lenovo.com/jp/ja/c/laptops/thinkpad/thinkpadx1/) | Intel Core i7 | 12 Cores | 16 Threads | 16GB | 500GB | 14 Inchs | 2240 x 1400 |
+| 2 | Windows | 未定（都度見積） | Intel Core i9 | 8 Cores | 16 Threads | 32GB | 1TB | 15 Inchs | 4K (3840 x 2160) |
 
 ## Mac
 
 | Model Number | OS | Model | CPU | Cores | Threads | RAM | SSD | Display Size | Resolution |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Mac | [MacBook Pro 16 Inch](https://www.apple.com/jp/macbook-pro-16/) | Apple M1 Pro | 10 Cores | 16 Threads | 32GB | 1TB | 16 Inchs | 3092 x 1920 |
-| 2 | Mac | [MacBook Pro 13 Inch](https://www.apple.com/jp/macbook-pro-13/) | Apple M1 | 8 Cores | - | 16GB | 500GB | 13 Inchs | WQXGA (2560 x 1600) |
+| 1 | Mac | [MacBook Pro 16 Inch](https://www.apple.com/jp/macbook-pro-14-and-16/) | Apple M1 Pro | 10 Cores | 16 Threads | 32GB | 1TB | 16 Inchs | 3092 x 1920 |
+| 2 | Mac | [MacBook Pro 14 Inch](https://www.apple.com/jp/macbook-pro-14-and-16/) | Apple M1 Pro | 10 Cores | 14 Threads | 16GB | 500GB | 14 Inchs | Liquid Retina XDR (3024 x 1964) |
 
 # 開発部以外向けPCリスト
 
@@ -43,7 +43,7 @@
 
 | Model Number | OS | Model | CPU | Cores | Threads | RAM | SSD | Display Size | Resolution |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Windows | [Lenovo X1 Carbon](https://www.lenovo.com/jp/ja/notebooks/thinkpad/thinkpad-x1/c/thinkpadx1) | Intel Core i7 | 4 Cores | 8 Threads | 16GB | 500GB | 14 Inchs | WQHD (2560 x 1440) |
+| 1 | Windows | [Lenovo X1 Carbon](https://www.lenovo.com/jp/ja/c/laptops/thinkpad/thinkpadx1/) | Intel Core i7 | 12 Cores | 16 Threads | 16GB | 500GB | 14 Inchs | 2240 x 1400 |
 
 ## Mac
 
@@ -55,7 +55,7 @@
 
 | Model Number | OS | Model | CPU | Cores | Threads | RAM | SSD | Display Size | Resolution |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3 | Mac | [MacBook Air](https://www.apple.com/jp/macbook-air/) | Apple M1 | 8 Cores | - | 16GB | 500GB | 13 Inchs | WQXGA (2560 x 1600) |
+| 3 | Mac | [MacBook Air](https://www.apple.com/jp/macbook-air-m2/) | Apple M1 | 8 Cores | - | 16GB | 500GB | 13 Inchs | Liquid Retina |
 
 # キーボードレイアウトについて
 
