@@ -52,10 +52,11 @@
     * 弊社の主力サービスである [Teachme Biz](https://biz.teachme.jp/) は [（Windows専用の）編集拡張プラグイン](https://biz.teachme.jp/function/#devices) が御座います
     * ビジネス職（特に営業やCS）の方は提案時などにデスクトップアプリのデモをする場合も御座いますので、 **特別な理由がある場合を除きWindows機を選択してください（どうしても必要な場合は採用担当までご連絡ください）**
     * Macを選択された方は **原則マシンのトラブルシューティングなどは自身でお願いします** （システム部門からのサポートは御座いません）
+    * 過去の職場や私物において *Macの利用経験がある方のみ* 選択可能です
 
 | Model Number | OS | Model | CPU | Cores | Threads | RAM | SSD | Display Size | Resolution |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3 | Mac | [MacBook Air](https://www.apple.com/jp/macbook-air-m2/) | Apple M1 | 8 Cores | - | 16GB | 500GB | 13 Inchs | Liquid Retina |
+| 3 | Mac | [MacBook Air](https://www.apple.com/jp/macbook-air-m2/) | Apple M1 | 8 Cores | - | 8GB | 500GB | 13 Inchs | Liquid Retina |
 
 # キーボードレイアウトについて
 
