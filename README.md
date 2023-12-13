@@ -57,7 +57,7 @@
 
 | Model Number | OS | Model | CPU | Cores | Threads | RAM | SSD | Display Size | Resolution |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3 | Mac | [MacBook Air](https://www.apple.com/jp/macbook-air-m1/) | Apple M1 | 8 Cores | - | 16GB | 500GB | 13 Inchs | Liquid Retina |
+| 3 | Mac | [MacBook Air](https://www.apple.com/jp/macbook-air-m1/) | Apple M2 | 8 Cores | - | 16GB | 500GB | 13 Inchs | Liquid Retina |
 
 # キーボードレイアウトについて
 
