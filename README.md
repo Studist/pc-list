@@ -32,8 +32,7 @@
 
 | Model Number | OS | Model | CPU | Cores | Threads | RAM | SSD | Display Size | Resolution |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Mac | [MacBook Pro 16 Inch](https://www.apple.com/jp/macbook-pro-14-and-16/) | Apple M1 Pro | 10 Cores | 16 Threads | 32GB | 1TB | 16 Inchs | 3092 x 1920 |
-| 2 | Mac | [MacBook Pro 14 Inch](https://www.apple.com/jp/macbook-pro-14-and-16/) | Apple M2 Pro | 10 Cores | 16 Threads | 16GB | 500GB | 14 Inchs | Liquid Retina XDR (3024 x 1964) |
+| 1 | Mac | [MacBook Pro 14 Inch](https://www.apple.com/jp/macbook-pro-14-and-16/) | Apple M4 Pro | 12 Core CPU | 16 Core GPU | 48GB | 500GB | 14 Inchs | Liquid Retina XDR (3024 x 1964) |
 
 # 開発部以外向けPCリスト
 
@@ -57,7 +56,7 @@
 
 | Model Number | OS | Model | CPU | Cores | Threads | RAM | SSD | Display Size | Resolution |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3 | Mac | [MacBook Air](https://www.apple.com/jp/macbook-air-m1/) | Apple M2 | 8 Cores | - | 16GB | 500GB | 13 Inchs | Liquid Retina |
+| 3 | Mac | [MacBook Air](https://www.apple.com/jp/macbook-air-m1/) | Apple M3 | 8 Cores | - | 16GB | 500GB | 13 Inchs | Liquid Retina |
 
 # キーボードレイアウトについて
 
