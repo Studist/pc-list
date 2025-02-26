@@ -32,6 +32,19 @@
 | ------------ | --- | ---------------------------------------------------------------------- | ------------ | ----------- | ----------- | ---- | ----- | ------------ | ------------------------------- |
 | 1            | Mac | [MacBook Pro 14 Inch](https://www.apple.com/jp/macbook-pro-14-and-16/) | Apple M4 Pro | 12 Core CPU | 16 Core GPU | 48GB | 500GB | 14 Inchs     | Liquid Retina XDR (3024 x 1964) |
 
+## Linux
+
+- キーボードタイプを選択してください
+- Linux を選択された方は **原則マシンのトラブルシューティングなどは自身でお願いします** （システム部門からのサポートは御座いません）
+- OS 入れ替えなどもご自身でできる方のみ選択可能です。
+- 業務用 PC として最低限の要件を設定するためのスクリプトがあります。 https://github.com/StudistCorporation/ubuntu_setup
+  - この要件のソフトウェアの動作検証の関係上、2025/2/26 時点では Ubuntu 24.04 LTS のみ使用可能です。
+- システム部門からサポートはできませんので、 **入社時に Linux のマシンを選択することはできません。** 開発職の方も入社時には Windows か Mac を選択いただき、後から Linux のマシンに交換、追加をすることは可能です。上長と相談の上、ご希望ください。
+
+| Model Number | OS                                | Model                                                                                                                                                                 | CPU                | Cores   | Threads | RAM  | SSD   | Display Size | Resolution  |
+| ------------ | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------- | ------- | ---- | ----- | ------------ | ----------- |
+| 1            | Ubuntu (Windows プリインストール) | [ThinkPad T14s Gen 6 Strix Point（AMD）](https://www.lenovo.com/jp/ja/p/laptops/thinkpad/thinkpad-t-series/lenovo-thinkpad-t14s-gen-6-14-inch-amd-laptop/len101t0109) | Ryzen AI 7 PRO 360 | 8 Cores | 16      | 64GB | 512GB | 14 Inchs     | 1920 x 1080 |
+
 # 開発部以外向け PC リスト
 
 ## Windows
@@ -55,22 +68,6 @@
 | Model Number | OS  | Model                                                   | CPU      | Cores   | Threads | RAM  | SSD   | Display Size | Resolution    |
 | ------------ | --- | ------------------------------------------------------- | -------- | ------- | ------- | ---- | ----- | ------------ | ------------- |
 | 3            | Mac | [MacBook Air](https://www.apple.com/jp/macbook-air-m1/) | Apple M3 | 8 Cores | -       | 16GB | 500GB | 13 Inchs     | Liquid Retina |
-
-## Linux
-
-- 一種類しか用意しておりません。キーボードタイプを選択してください
-- 弊社の標準 OS は「Windows」です
-  - 弊社の主力サービスである [Teachme Biz](https://biz.teachme.jp/) は [（Windows 専用の）編集拡張プラグイン](https://biz.teachme.jp/function/#devices) が御座います
-  - ビジネス職（特に営業や CS）の方は提案時などにデスクトップアプリのデモをする場合も御座いますので、 **特別な理由がある場合を除き Windows 機を選択してください（どうしても必要な場合は採用担当までご連絡ください）**
-  - Linux を選択された方は **原則マシンのトラブルシューティングなどは自身でお願いします** （システム部門からのサポートは御座いません）
-    - OS 入れ替えなどもご自身でできる方のみ選択可能です。
-    - 業務用 PC として最低限の要件を設定するためのスクリプトがあります。 https://github.com/StudistCorporation/ubuntu_setup
-      - この要件のソフトウェアの動作検証の関係上、2025/2/26 時点では Ubuntu 24.04 LTS のみ使用可能です。
-  - システム部門からサポートはできませんので、 **入社時に Linux のマシンを選択することはできません。** 開発職の方も入社時には Windows か Mac を選択いただき、後から Linux のマシンに交換、追加をすることは可能です。上長と相談の上、ご希望ください。
-
-| Model Number | OS                                | Model                                                                                                                                                                 | CPU                | Cores   | Threads | RAM  | SSD   | Display Size | Resolution  |
-| ------------ | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------- | ------- | ---- | ----- | ------------ | ----------- |
-| 1            | Ubuntu (Windows プリインストール) | [ThinkPad T14s Gen 6 Strix Point（AMD）](https://www.lenovo.com/jp/ja/p/laptops/thinkpad/thinkpad-t-series/lenovo-thinkpad-t14s-gen-6-14-inch-amd-laptop/len101t0109) | Ryzen AI 7 PRO 360 | 8 Cores | 16      | 64GB | 512GB | 14 Inchs     | 1920 x 1080 |
 
 # キーボードレイアウトについて
 
