@@ -78,7 +78,7 @@
 
 @マークが数字の `2` と同一です
 
-![US](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KB_US-International.svg/800px-KB_US-International.svg.png)
+![US](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KB_US-International.svg/960px-KB_US-International.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
 
 ## JIS
 
